@@ -227,16 +227,16 @@ input[type=submit] {
     width: 100%;
   }
   .main-section {
-    width: 50%;
+    width: 100%;
   }
   .auth-image {
-    width: 100%;
+    width: 25%;
   } 
 
 }
 @media screen and (max-width:768px) {
   nav{
-    width: 50%;
+    width: 100%;
   }
   #main-container{
     width: 100%;
@@ -245,14 +245,15 @@ input[type=submit] {
     width: 100%;
   }
   .auth-image{
-    width: 100%;
+    width: 75%;
   } 
 
 }
 @media screen and (max-width:640px) {
   nav{
-    width: 100%;
+    width: 85%;
   }
+
   #main-container{
     width: 100%;
   }
